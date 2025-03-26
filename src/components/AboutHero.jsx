@@ -1,4 +1,3 @@
-import React from 'react'
 import heroImg from "../assets/About-equipment.webp";
 const AboutHero = () => {
   return (
@@ -7,7 +6,7 @@ const AboutHero = () => {
         <img
           src={heroImg}
           alt="hero img"
-          loading='lazy'
+          loading="lazy"
           className="h-full w-full bg-right object-cover mix-blend-overlay"
         />
       </div>
@@ -17,13 +16,13 @@ const AboutHero = () => {
         </h3>
 
         <p className="text-2xl text-textColor">
-          Welcome to kimGym, Our gym is more than just
-          a place to work out; it's a community where people come together to
-          achieve their fitness goals and support one another.
+          Welcome to kimGym, Our gym is more than just a place to work out; it's
+          a community where people come together to achieve their fitness goals
+          and support one another.
         </p>
       </div>
     </section>
   );
-}
+};
 
-export default AboutHero
+export default AboutHero;
