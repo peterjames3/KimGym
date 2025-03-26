@@ -24,7 +24,7 @@ const Footer = () => {
               <ul className="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
                 <li>
                   <a
-                    href="#"
+                    href="https://web.facebook.com/profile.php?id=61573056144109"
                     rel="noreferrer"
                     target="_blank"
                     className="text-blue-600"
@@ -47,7 +47,7 @@ const Footer = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/4390_peter/"
                     rel="noreferrer"
                     target="_blank"
                     className="text-orange-600"
@@ -70,7 +70,7 @@ const Footer = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="https://x.com/peterka99082091"
                     rel="noreferrer"
                     target="_blank"
                     className="text-blue-400"
