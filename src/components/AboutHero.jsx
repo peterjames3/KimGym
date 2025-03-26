@@ -16,9 +16,9 @@ const AboutHero = () => {
         </h3>
 
         <p className="text-2xl text-textColor">
-          Welcome to kimGym, Our gym is more than just a place to work out; it's
-          a community where people come together to achieve their fitness goals
-          and support one another.
+          Welcome to kimGym, Our gym is more than just a place to work out;
+          it&apos;s a community where people come together to achieve their
+          fitness goals and support one another.
         </p>
       </div>
     </section>
